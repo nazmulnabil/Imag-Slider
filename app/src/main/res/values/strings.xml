@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image slider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="viewpager_Text"> River,rain or flowers?</string>
+    <string name="viewpager_Text2">-I think all of them.</string>
+</resources>
